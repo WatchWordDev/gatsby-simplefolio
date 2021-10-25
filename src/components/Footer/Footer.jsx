@@ -38,7 +38,8 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Template developed by{' '}
+          Site content © 2021 Justin Anderson <br />
+          Site template © {new Date().getFullYear()}&nbsp;
           <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
             Jacobo Martínez
           </a>

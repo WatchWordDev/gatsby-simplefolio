@@ -49,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'sdc-sample-listing.png',
     title: 'System Design: NotReallyAirBnB',
-    info: 'A full stack system design project. With other team members, I created an microservices-based AirBnB clone with a React frontend and a Node/PSQL backend, deployed to load-balanced cluster of AWS EC2 instances.',
+    info: 'A full stack system design project. With other team members, I created a microservices-based AirBnB clone with a React frontend and a Node/PSQL backend, deployed to load-balanced cluster of AWS EC2 instances.',
     info2: '',
     url: 'https://github.com/WatchWordDev/property-listing-service',
     repo: 'https://github.com/WatchWordDev/property-listing-service', // if no repo, the button will not show up
